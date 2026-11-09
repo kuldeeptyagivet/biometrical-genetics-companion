@@ -23,4 +23,6 @@ All data sets are constructed for teaching, except where a README states a publi
 Code: MIT (`LICENSE`). Data and saved outputs: Creative Commons Attribution 4.0 (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). The numbers in `ch01/data/herd_size.csv` are taken from Table 1 of Al Kalaldeh et al. (2021), Genetics Selection Evolution 53:73, https://doi.org/10.1186/s12711-021-00667-6, published under CC BY 4.0.
 
 ## Citing
-A versioned release with a DOI will be archived on Zenodo; the DOI will be added here and printed in the book.
+Archived on Zenodo. The DOI of the first release (v0.1.0, Chapter 1) is https://doi.org/10.5281/zenodo.24080314. The DOI that always resolves to the latest version is https://doi.org/10.5281/zenodo.24080313.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24080313.svg)](https://doi.org/10.5281/zenodo.24080313)
