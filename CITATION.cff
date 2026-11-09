@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Biometrical Genetics: companion code and data"
+type: software
+authors:
+  - family-names: Tyagi
+    given-names: Kuldeep Kumar
+    title: "Dr."
+    orcid: "https://orcid.org/0000-0001-5044-7255"
+license: MIT
+repository-code: "https://github.com/kuldeeptyagivet/biometrical-genetics-companion"
+doi: 10.5281/zenodo.24080313
+abstract: "Companion code, constructed data sets and saved results for the book Biometrical Genetics (Animal Genetics and Breeding). Code is MIT licensed; data and outputs are CC BY 4.0."
